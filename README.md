@@ -5,8 +5,9 @@ pip install colorama
 pip install json
 
 
-daha sonra ipsorgula.exe dosyasını açıp 
-python ipsorgu.py yazın . daha sonra bilgi edinmek istediğiniz ip'yi yazın. 
+daha sonra tekrardan cmd dosyasını açıp:
+kodun olduğu dizini cd "dosya\dizini" şeklinde yazın.
+artından python ipsorgu.py yapıp çalıştırıyoruz
 
 Takıldığınız yer olursa eposta adresim: sdag11961@gmail.com
 
