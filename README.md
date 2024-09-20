@@ -1,7 +1,9 @@
 Sırasıyla bu 3 kodu CMD'ye yazın
 
 pip install requests
+
 pip install colorama
+
 pip install json
 
 
