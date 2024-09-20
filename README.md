@@ -6,6 +6,7 @@ pip install json
 
 
 daha sonra tekrardan cmd dosyasını açıp:
+
 kodun olduğu dizini cd "dosya\dizini" şeklinde yazın.
 artından python ipsorgu.py yapıp çalıştırıyoruz
 
