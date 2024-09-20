@@ -9,7 +9,7 @@ daha sonra tekrardan cmd dosyasını açıp:
 
 kodun olduğu dizini cd "dosya\dizini" şeklinde yazın.
 
-artından python ipsorgu.py yapıp çalıştırıyoruz
+ardından python ipsorgu.py yapıp çalıştırıyoruz
 
 Takıldığınız yer olursa eposta adresim: sdag11961@gmail.com
 
